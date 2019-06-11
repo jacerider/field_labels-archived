@@ -1,0 +1,7 @@
+name: Field Labels
+type: module
+description: 'Defines a label for fields that is used for displaying content which can be different than the form label.'
+package: Field types
+core: '8.x'
+dependencies:
+  - drupal:field
